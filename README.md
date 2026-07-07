@@ -25,6 +25,6 @@ Ensure you have Python 3.10+ installed and access to your Fireworks AI API crede
 ### 2. Installation
 Clone the repository and install the dependencies:
 ```bash
-git clone [https://github.com/ImLexus/AMD-Cingkariak.git](https://github.com/ImLexus/AMD-Cingkariak.git)
+git clone https://github.com/arsyadpelajar01-coder/AMD-Cingkariak.git
 cd AMD-Cingkariak
 pip install -r requirements.txt
